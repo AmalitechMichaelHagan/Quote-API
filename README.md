@@ -13,7 +13,7 @@ A web API, built with Express and Node.js, that stores and serves quotes.
 
 ## General info
 
- This is a challenge project set as part of the Codecademy Full-Stack Engineer career path course. It builds upon the skills acquired during the 'Build a backend with Node.js and Express' module of the course.
+ This is a challenge project set as part of the Codecademy Back-End Engineer career path course. It builds upon the skills acquired during the 'Build a backend with Node.js and Express' module of the course.
 
 ## Screenshot
 
